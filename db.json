@@ -407,7 +407,7 @@
         "Response": "True"
       }
     ],
-    "type": "slide",
+    "type": "slide small",
     "title": "The Avengers"
   },
   {
@@ -533,7 +533,7 @@
         "Response": "True"
       }
     ],
-    "type": "slide",
+    "type": "slide small",
     "title": "Iron Man"
   },
   {
@@ -745,7 +745,7 @@
         "Response": "True"
       }
     ],
-    "type": "slid small",
+    "type": "slide small",
     "title": "Captain America"
   },
   {
